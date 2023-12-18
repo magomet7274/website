@@ -1,5 +1,15 @@
 html{
     font-size: 60px;
+    color: darkorange;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(26, 136, 54);
+    background-color: rgb(0, 255, 255);
+}
+.column{
+/* Set additional styling options for the columns*/
+   background-color: blueviolet;
+   margin: 5%;
+   padding: 1%;
+}
+*{
+    box-sizing: border-box;
 }

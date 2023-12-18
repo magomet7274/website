@@ -5,7 +5,7 @@ var name = prompt('как вас зовут?')
 var isAdmin = confirm("Вы - хотите посмотреть мой сайт?")
 if (isAdmin)
 {
-    alert("ок залетай")
+    alert("хорошый выбор")
     alert('Ваше имя  ' + name)
     alert('Вам ' + years + ' лет!')
 }
